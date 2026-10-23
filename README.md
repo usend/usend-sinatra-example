@@ -1,6 +1,6 @@
 # Send with Sinatra
 
-Send email from a Sinatra app with the usend gem, and receive webhooks.
+Send email from a Sinatra app with the uSend gem, and receive webhooks.
 
 Part of [usend examples](https://github.com/usend/usend-examples). Step-by-step guide: https://usend.et/docs/quickstarts/sinatra
 
